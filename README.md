@@ -20,11 +20,11 @@
 
 🧑‍💻   The Mind Behind the Code
 const Ahzam: Developer = {
-  name        : "Ahzam Azeem",
-  title       : "MERN STACK Developer",
+  name        : "Syed Hassan Dildar",
+  title       : "Full Stack Developer",
   location    : "🌍 Pakistan — building for the world",
   stack       : {
-    frontend  : ["React", "Angular", "Bootstrap", "Tailwind"],
+    frontend  : ["React", "React Native", "Three.js", "Tailwind"],
     backend   : ["Node.js", "Express.js", "REST APIs"],
     database  : ["MySQL"],
     tools     : ["Git", "GitHub", "VSCode", "Postman", "npm"],
