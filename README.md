@@ -73,9 +73,6 @@ const Ahzam: Developer = {
       </a>
       <br/>
       <b>Hotel Management System</b><br/>
-      <a href="https://github.com/ahzamazeem/Hotel_Management_System" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
-      </a>
     </td>
     <td align="center" width="50%">
       <a href="https://ahzamazeem.github.io/Gsap_Portfolio/" target="_blank">
@@ -83,12 +80,6 @@ const Ahzam: Developer = {
       </a>
       <br/>
       <b>GSAP Portfolio</b><br/>
-      <a href="https://github.com/ahzamazeem/Gsap_Portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
-      </a>
-      <a href="https://ahzamazeem.github.io/Gsap_Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Live-Site-39d353?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;labelColor=000000" alt="View live site" />
-      </a>
     </td>
   </tr>
   <tr>
@@ -98,12 +89,6 @@ const Ahzam: Developer = {
       </a>
       <br/>
       <b>Carrio Motors</b><br/>
-      <a href="https://github.com/ahzamazeem/carrio-motors" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
-      </a>
-      <a href="https://ahzamazeem.github.io/carrio-motors/" target="_blank">
-        <img src="https://img.shields.io/badge/Live-Site-39d353?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;labelColor=000000" alt="View live site" />
-      </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/ahzamazeem/Tech_Mart" target="_blank">
@@ -111,9 +96,6 @@ const Ahzam: Developer = {
       </a>
       <br/>
       <b>Tech Mart</b><br/>
-      <a href="https://github.com/ahzamazeem/Tech_Mart" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
-      </a>
     </td>
   </tr>
   <tr>
@@ -123,9 +105,6 @@ const Ahzam: Developer = {
       </a>
       <br/>
       <b>Covid Awareness</b><br/>
-      <a href="https://github.com/ahzamazeem/Covid-Awareness" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
-      </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/ahzamazeem/Fit-Track" target="_blank">
@@ -133,9 +112,6 @@ const Ahzam: Developer = {
       </a>
       <br/>
       <b>Fit Track</b><br/>
-      <a href="https://github.com/ahzamazeem/Fit-Track" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
-      </a>
     </td>
   </tr>
 </table>
