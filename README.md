@@ -4,12 +4,12 @@
 <!--                    CINEMATIC HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Syed%20Hassan%20Dildar&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Ahzam%20Azeem&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
 
 <br/>
 
 <!-- BADGE ROW — PROFILE VIEWS + STATUS -->
-<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=ahzamazeem&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=39d353" />
 &nbsp;
@@ -30,13 +30,14 @@
 <!--                      ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
 ### 🧑‍💻 &nbsp; The Mind Behind the Code
+
+<img align="right" alt="Coding GIF" width="340" height="312" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 ```typescript
-const hassan: Developer = {
-  name        : "Syed Hassan Dildar",
-  title       : "Full Stack Developer",
+const Ahzam: Developer = {
+  name        : "Ahzam Azeem",
+  title       : "MERN Stack Developer",
   location    : "🌍 Pakistan — building for the world",
   stack       : {
     frontend  : ["React", "React Native", "Three.js", "Tailwind"],
@@ -61,98 +62,80 @@ const hassan: Developer = {
 
 <div align="center">
 
-### 🎬 &nbsp; Featured Gallery — The Best of Hxni
+### 🎬 &nbsp; Featured Gallery — The Best of Ahzam Azeem
 <br/>
 
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <a href="https://hxnix-gold.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/3d-portfolio-main/main/public/images/preview.png" width="100%" />
+      <a href="https://github.com/ahzamazeem/Hotel_Management_System" target="_blank">
+        <img src="img/Hotel_Management_System.png" alt="Hotel Management System preview" width="100%" />
       </a>
       <br/>
-      <b>The 3D Nexus</b><br/>
-      <sub>Immersive Three.js Portfolio Experience</sub>
+      <b>Hotel Management System</b><br/>
+      <a href="https://github.com/ahzamazeem/Hotel_Management_System" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
+      </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Hxni-Ecommerce-Store" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/screenshot_home.png" width="100%" />
+      <a href="https://ahzamazeem.github.io/Gsap_Portfolio/" target="_blank">
+        <img src="img/ahzam_portfolio.png" alt="GSAP Portfolio preview" width="100%" />
       </a>
       <br/>
-      <b>Editorial Excellence</b><br/>
-      <sub>Full-Stack Boutique E-commerce Platform</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/E-store2" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/E-store2/main/docs/ui-preview.png" width="100%" />
+      <b>GSAP Portfolio</b><br/>
+      <a href="https://github.com/ahzamazeem/Gsap_Portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
       </a>
-      <br/>
-      <b>Bespoke E-store 2.0</b><br/>
-      <sub>Luxury Minimalist Mobile Commerce</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Ticket-Booking-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Ticket-Booking-App/main/mobile/assets/promo1.png" width="100%" />
+      <a href="https://ahzamazeem.github.io/Gsap_Portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Site-39d353?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;labelColor=000000" alt="View live site" />
       </a>
-      <br/>
-      <b>TicketVerse</b><br/>
-      <sub>Premium Full-Stack Event Booking</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Nixh-A-social-Media-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Nixh-A-social-Media-App/main/docs/assets/mobile_mockup.png" width="100%" />
+      <a href="https://ahzamazeem.github.io/carrio-motors/" target="_blank">
+        <img src="img/carrio_motors.png" alt="Carrio Motors preview" width="100%" />
       </a>
       <br/>
-      <b>NIXH Social</b><br/>
-      <sub>Enterprise Multi-User Directory & Social Engine</sub>
+      <b>Carrio Motors</b><br/>
+      <a href="https://github.com/ahzamazeem/carrio-motors" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
+      </a>
+      <a href="https://ahzamazeem.github.io/carrio-motors/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Site-39d353?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;labelColor=000000" alt="View live site" />
+      </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/A-food-Delivery-App-hxni-express" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_express_mockup.png" width="100%" />
+      <a href="https://github.com/ahzamazeem/Tech_Mart" target="_blank">
+        <img src="img/Tech_Mart.png" alt="Tech Mart preview" width="100%" />
       </a>
       <br/>
-      <b>hxni Express</b><br/>
-      <sub>Cinematic Parallax Food Delivery Experience</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/-A-Restaurant-App-Spice-with-Hassan" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/spice_hassan_mockup.png" width="100%" />
+      <b>Tech Mart</b><br/>
+      <a href="https://github.com/ahzamazeem/Tech_Mart" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
       </a>
-      <br/>
-      <b>Spice with Hassan</b><br/>
-      <sub>Boutique Restaurant & Ordering Management</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Food-Delivery-app-2" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Food-Delivery-app-2/main/hero.png" width="100%" />
-      </a>
-      <br/>
-      <b>Nixh Food 2.0</b><br/>
-      <sub>Scalable Order Tracking & Delivery ecosystem</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Expense-Tracker" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_finance_mockup.png" width="100%" />
+      <a href="https://github.com/ahzamazeem/Covid-Awareness" target="_blank">
+        <img src="img/Covid_Vaccination.png" alt="Covid Awareness preview" width="100%" />
       </a>
       <br/>
-      <b>Hxni Finance</b><br/>
-      <sub>Advanced Personal Asset & Expense Management</sub>
+      <b>Covid Awareness</b><br/>
+      <a href="https://github.com/ahzamazeem/Covid-Awareness" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
+      </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Hxni786/Hxnix-Social-Media-App" target="_blank">
-        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxnix_social_mockup.png" width="100%" />
+      <a href="https://github.com/ahzamazeem/Fit-Track" target="_blank">
+        <img src="img/Fit_Track.png" alt="Fit Track preview" width="100%" />
       </a>
       <br/>
-      <b>Hxnix Social</b><br/>
-      <sub>Modern Interactive Community Engine</sub>
+      <b>Fit Track</b><br/>
+      <a href="https://github.com/ahzamazeem/Fit-Track" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repository-ffffff?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" alt="View repository" />
+      </a>
     </td>
   </tr>
 </table>
@@ -245,13 +228,13 @@ const hassan: Developer = {
 ### 📊 &nbsp; GitHub Intelligence
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahzamazeem&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=18&langs_count=8&card_width=320" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzamazeem&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=18&langs_count=8&card_width=320" height="175" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Hxni786&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" />
+<img src="https://streak-stats.demolab.com?user=ahzamazeem&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" />
 
 </div>
 
@@ -266,7 +249,7 @@ const hassan: Developer = {
 ### 📈 &nbsp; Contribution Timeline
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Hassan's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahzamazeem&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Ahzam%20Azeem's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
 
 </div>
 
@@ -313,7 +296,7 @@ const hassan: Developer = {
 ### 🏆 &nbsp; GitHub Achievements
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahzamazeem&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4" />
 
 <br/><br/>
 
@@ -354,19 +337,19 @@ const hassan: Developer = {
 
 <br/>
 
-<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<a href="https://AhzamPortfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Connect-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
 <a href="mailto:msgoat550@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://github.com/Hxni786" target="_blank">
+<a href="https://github.com/ahzamazeem" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://mypf786.netlify.app/" target="_blank">
+<a href="https://AhzamPortfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
 
@@ -379,7 +362,9 @@ const hassan: Developer = {
 
 **📱 Scan my Portfolio**
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mypf786.netlify.app/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+<a href="https://AhzamPortfolio.vercel.app/" target="_blank">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2FAhzamPortfolio.vercel.app%2F&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+</a>
 
 </td>
 <td align="center" valign="middle">
