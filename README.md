@@ -34,12 +34,12 @@
 
 ### 🧑‍💻 &nbsp; The Mind Behind the Code
 ```typescript
-const hassan: Developer = {
-  name        : "Syed Hassan Dildar",
-  title       : "Full Stack Developer",
+const Ahzam: Developer = {
+  name        : "M. Ahzam Azeem",
+  title       : "MERN STACK Developer",
   location    : "🌍 Pakistan — building for the world",
   stack       : {
-    frontend  : ["React", "React Native", "Three.js", "Tailwind"],
+    frontend  : ["React", "Angular", "Bootstrap", "Tailwind"],
     backend   : ["Node.js", "Express.js", "REST APIs"],
     database  : ["MySQL"],
     tools     : ["Git", "GitHub", "VSCode", "Postman", "npm"],
